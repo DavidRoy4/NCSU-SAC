@@ -1,0 +1,545 @@
+Rk,Player,Team,Salary_2019_to_20,Salary_2020_to_21,Salary_2021_to_22,Salary_2022_to_23,Salary_2023_to_24,Salary_2024_to_25,Signed Using,Guaranteed,Salary_Per_Million
+1,Stephen Curry,Golden State Warriors,40231758,43006362,45780966,,,,Bird Rights,129019086,40.231758
+2,Chris Paul,Oklahoma City Thunder,38506482,41358814,44211146,,,,Bird Rights,79865296,38.506482
+3,Russell Westbrook,Houston Rockets,38178000,41006000,43848000,46662000,,,Bird Rights,123032000,38.178
+4,John Wall,Washington Wizards,37800000,40824000,43848000,46872000,,,Bird Rights,122472000,37.8
+5,James Harden,Houston Rockets,37800000,40824000,43848000,46872000,,,Bird Rights,122472000,37.8
+6,LeBron James,LA Lakers,37436858,39219565,41002273,,,,Cap Space,76656423,37.436858
+7,Kevin Durant,Brooklyn Nets,37199000,39058950,40918900,42778850,,,Sign and Trade,117176850,37.199
+8,Blake Griffin,Detroit Pistons,34234964,36595996,38957028,,,,Bird Rights,70830960,34.234964
+9,Kyle Lowry,Toronto Raptors,33296296,30000000,,,,,Bird Rights,63296296,33.296296
+10,Paul George,LA Clippers,33005556,35450412,37895268,,,,Maximum Salary,68455968,33.005556
+11,Klay Thompson,Golden State Warriors,32742000,35361360,37980720,40600080,43219440,,Bird Rights,189903600,32.742
+12,Jimmy Butler,Miami Heat,32742000,34379100,36016200,37653300,,,Sign and Trade,103137300,32.742
+13,Kemba Walker,Boston Celtics,32742000,34379100,36016200,37653300,,,Sign and Trade,103137300,32.742
+14,Kawhi Leonard,LA Clippers,32742000,34379100,36016200,,,,Cap Space,67121100,32.742
+15,Gordon Hayward,Boston Celtics,32700690,34187085,,,,,Cap space,32700690,32.70069
+16,Mike Conley,Utah Jazz,32511623,34504132,,,,,Cap Space,54938006,32.511623
+17,Kyrie Irving,Brooklyn Nets,31742000,33329100,34916200,36503300,,,Cap space,136490600,31.742
+18,Tobias Harris,Philadelphia 76ers,31034483,33517241,36000000,38482759,40965517,,Bird Rights,180000000,31.034483
+19,Khris Middleton,Milwaukee Bucks,30603448,33051724,35500000,37948276,40396552,,Bird Rights,137103448,30.603448
+20,Paul Millsap,Denver Nuggets,30500000,,,,,,Cap space,30500000,30.5
+21,Damian Lillard,Portland Trailblazers,29802321,31626953,43750000,47250000,50750000,54250000,1st Round Pick,257429274,29.802321
+22,Kevin Love,Cleveland Cavaliers,28900000,31300000,31300000,28900000,,,Bird Rights,120400000,28.9
+23,Nikola Vučević,Orlando Magic,28000000,26000000,24000000,22000000,,,Bird Rights,100000000,28
+24,Al Horford,Philadelphia 76ers,28000000,27500000,27000000,26500000,,,Cap Space,97000000,28
+25,DeMar DeRozan,San Antonio Spurs,27739975,27739975,,,,,Cap Space,27739975,27.739975
+26,CJ McCollum,Portland Trailblazers,27556959,29354152,30864198,33333333,35802469,,1st Round Pick,156911111,27.556959
+27,Joel Embiid,Philadelphia 76ers,27504630,29542010,31579390,33616770,,,1st Round Pick,122242800,27.50463
+28,Andrew Wiggins,Golden State Warriors,27504630,29542010,31579390,33616770,,,1st Round Pick,122242800,27.50463
+29,Kristaps Porzingis,Dallas Mavericks,27285000,29467800,31650600,33833400,36016200,,Bird Rights,122236800,27.285
+30,D'Angelo Russell,Golden State Warriors,27285000,28649250,30013500,31377750,,,Sign and Trade,117325500,27.285
+31,Otto Porter,Chicago Bulls,27250576,28489239,,,,,Bird Rights,27250576,27.250576
+32,Devin Booker,Phoenix Suns,27250000,29430000,31610000,33790000,35970000,,1st round pick,158050000,27.25
+33,Karl-Anthony Towns,Minnesota Timberwolves,27250000,29430000,31610000,33790000,35970000,,1st Round Pick,155870000,27.25
+34,Bradley Beal,Washington Wizards,27093019,28751775,34502130,37262300,,,Cap Space,90346924,27.093019
+35,Anthony Davis,LA Lakers,27093019,28751775,,,,,1st Round Pick,27093019,27.093019
+36,Andre Drummond,Cleveland Cavaliers,27093019,28751775,,,,,Cap Space,27093019,27.093019
+37,Hassan Whiteside,Portland Trailblazers,27093018,,,,,,Cap Space,27093018,27.093018
+38,Nikola Jokić,Denver Nuggets,26573595,28542009,30510423,32478837,,,Bird Rights,118104864,26.573595
+39,Jrue Holiday,New Orleans Pelicans,26131111,26131111,27020000,,,,Bird Rights,52262222,26.131111
+40,LaMarcus Aldridge,San Antonio Spurs,26000000,24000000,,,,,Cap Space,50000000,26
+41,Steven Adams,Oklahoma City Thunder,25842697,27528090,,,,,1st Round Pick,53370787,25.842697
+42,Giannis Antetokounmpo,Milwaukee Bucks,25842697,27528090,,,,,1st Round Pick,53370787,25.842697
+43,Marc Gasol,Toronto Raptors,25595700,,,,,,Bird Rights,25595700,25.5957
+44,Nicolas Batum,Charlotte Hornets,25565217,27130434,,,,,Cap Space,25565217,25.565217
+45,Chandler Parsons,Atlanta Hawks,25102511,,,,,,,25102511,25.102511
+46,Rudy Gobert,Utah Jazz,25008427,26525281,,,,,1st Round Pick,51533708,25.008427
+47,Harrison Barnes,Sacramento Kings,24147727,22215909,20284091,18352273,,,Bird Rights,85000000,24.147727
+48,Serge Ibaka,Toronto Raptors,23271604,,,,,,Cap space,23271604,23.271604
+49,Danilo Gallinari,Oklahoma City Thunder,22615559,,,,,,Sign and Trade,22615559,22.615559
+50,Victor Oladipo,Indiana Pacers,21000000,21000000,,,,,1st Round Pick,42000000,21
+51,Malcolm Brogdon,Indiana Pacers,20000000,20700000,21700000,22600000,,,Sign and Trade,85000000,20
+52,Terry Rozier,Charlotte Hornets,19894737,18900000,17905263,,,,Sign and Trade,56700000,19.894737
+53,Aaron Gordon,Orlando Magic,19863636,18136364,16409091,,,,Bird Rights,54409091,19.863636
+54,Zach LaVine,Chicago Bulls,19500000,19500000,19500000,,,,Cap space,58500000,19.5
+55,Kent Bazemore,Sacramento Kings,19269662,,,,,,Cap Space,19269662,19.269662
+56,Tyler Johnson,Phoenix Suns,19245370,,,,,,,19245370,19.24537
+57,Goran Dragić,Miami Heat,19217900,,,,,,Bird Rights,19217900,19.2179
+58,Jeff Teague,Atlanta Hawks,19000000,,,,,,Cap space,19000000,19
+59,Evan Turner,Minnesota Timberwolves,18606557,,,,,,Cap Space,18606557,18.606557
+60,Draymond Green,Golden State Warriors,18539130,22246956,24026712,25806469,27586225,,Bird Rights,90619267,18.53913
+61,Tristan Thompson,Cleveland Cavaliers,18539130,,,,,,Bird Rights,18539130,18.53913
+62,Tim Hardaway,Dallas Mavericks,18150000,18975000,,,,,Cap space,18150000,18.15
+63,Myles Turner,Indiana Pacers,18000000,18000000,18000000,18000000,,,1st Round pick,72000000,18
+64,Julius Randle,New York Knicks,18000000,18900000,19800000,,,,Cap Space,40900000,18
+65,Gary Harris,Denver Nuggets,17839286,19160714,20482143,,,,1st Round Pick,57482143,17.839286
+66,Allen Crabbe,Minnesota Timberwolves,17818456,,,,,,,17818456,17.818456
+67,Derrick Favors,New Orleans Pelicans,17650000,,,,,,Bird Rights,17650000,17.65
+68,Reggie Jackson,Detroit Pistons,17286956,,,,,,,17286956,17.286956
+69,Andre Iguodala,Miami Heat,17185185,15000000,15000000,,,,Bird Rights,32185185,17.185185
+70,Bojan Bogdanović,Utah Jazz,17000000,17850000,18700000,19550000,,,Cap Space,73100000,17
+71,Evan Fournier,Orlando Magic,17000000,17000000,,,,,Cap Space,17000000,17
+72,Bismack Biyombo,Charlotte Hornets,17000000,,,,,,Cap Space,17000000,17
+73,Clint Capela,Atlanta Hawks,16456522,17500000,18543478,19586957,,,Bird Rights,72086957,16.456522
+74,Gorgui Dieng,Memphis Grizzliesphis Grizzlies,16229213,17287640,,,,,1st Round Pick,33516853,16.229213
+75,Ricky Rubio,Phoenix Suns,16190476,17000000,17809524,,,,Cap Space,51000000,16.190476
+76,Jonas Valančiūnas,Memphis Grizzliesphis Grizzlies,16000000,15000000,14000000,,,,Bird Rights,45000000,16
+77,Brandon Knight,Detroit Pistons,15643750,,,,,,Bird Rights,15643750,15.64375
+78,Eric Bledsoe,Milwaukee Bucks,15625000,16875000,18125000,19375000,,,Bird Rights,54525000,15.625
+79,Kelly Oubre,Phoenix Suns,15625000,14375000,,,,,Bird Rights,30000000,15.625
+80,Dennis Schröder,Oklahoma City Thunder,15500000,15500000,,,,,1st Round Pick,31000000,15.5
+81,Ian Mahinmi,Washington Wizards,15450051,,,,,,Cap Space,15450051,15.450051
+82,James Johnson,Minnesota Timberwolves,15349400,16047100,,,,,Cap space,15349400,15.3494
+83,Marvin Williams,Charlotte Hornets,15006250,,,,,,,15006250,15.00625
+84,Bobby Portis,New York Knicks,15000000,15750000,,,,,Cap Space,15000000,15
+85,Marcus Morris,LA Clippers,15000000,,,,,,Cap Space,15000000,15
+86,Danny Green,LA Lakers,14634146,15365854,,,,,Cap Space,30000000,14.634146
+87,Cody Zeller,Charlotte Hornets,14471910,15415730,,,,,1st Round Pick,29887640,14.47191
+88,Eric Gordon,Houston Rockets,14057730,16869276,18218818,19568360,20917902,,Cap Space,68714184,14.05773
+89,Mason Plumlee,Denver Nuggets,14041096,,,,,,Cap space,14041096,14.041096
+90,Rudy Gay,San Antonio Spurs,14000000,14000000,,,,,Early Bird Rights,28000000,14
+91,J.J. Redick,New Orleans Pelicans,13486300,13013700,,,,,Cap Space,26500000,13.4863
+92,Jordan Clarkson,Utah Jazz,13437500,,,,,,Cap Space,13437500,13.4375
+93,Dewayne Dedmon,Atlanta Hawks,13333334,13333333,13333333,,,,Cap space,40000000,13.333334
+94,Solomon Hill,Miami Heat,13258781,,,,,,Cap Space,13258781,13.258781
+95,Justise Winslow,Memphis Grizzliesphis Grizzlies,13000000,13000000,13000000,,,,1st Round Pick,26000000,13
+96,Michael Kidd-Gilchrist,Charlotte Hornets,13000000,,,,,,,13000000,13
+97,Will Barton,Denver Nuggets,12960000,13920000,14880000,,,,Bird Rights,26880000,12.96
+98,Thaddeus Young,Chicago Bulls,12900000,13545000,14190000,,,,Cap space,32445000,12.9
+99,Courtney Lee,Dallas Mavericks,12759670,,,,,,Cap Space,12759670,12.75967
+100,Larry Nance,Cleveland Cavaliers,12727273,11709091,10690909,9672727,,,1st Round pick,44800000,12.727273
+101,Marcus Smart,Boston Celtics,12553471,13446428,14339285,,,,Bird Rights,40339184,12.553471
+102,Terrence Ross,Orlando Magic,12500000,13500000,12500000,11500000,,,Bird Rights,50000000,12.5
+103,Miles Plumlee,Memphis Grizzliesphis Grizzlies,12500000,,,,,,,12500000,12.5
+104,Patty Mills,San Antonio Spurs,12428571,13285714,,,,,Bird Rights,25714285,12.428571
+105,Patrick Beverley,LA Clippers,12345679,13333333,14320988,,,,Bird Rights,40000000,12.345679
+106,Trevor Ariza,Portland Trailblazers,12200000,12800000,,,,,Cap Space,14000000,12.2
+107,Dion Waiters,Memphis Grizzliesphis Grizzlies,12100000,12650000,,,,,,24750000,12.1
+108,Brook Lopez,Milwaukee Bucks,12093024,12697675,13302325,13906976,,,Cap Space,52000000,12.093024
+109,Jusuf Nurkić,Portland Trailblazers,12000000,12000000,12000000,,,,Bird Rights,28000000,12
+110,Cory Joseph,Sacramento Kings,12000000,12600000,12600000,,,,Cap Space,24600000,12
+111,Joe Ingles,Utah Jazz,11954546,10863637,14000000,,,,Bird Rights,36818183,11.954546
+112,Kelly Olynyk,Miami Heat,11667885,12198243,,,,,Cap space,11667885,11.667885
+113,Maurice Harkless,New York Knicks,11511234,,,,,,Cap Space,11511234,11.511234
+114,Tony Snell,Detroit Pistons,11392857,12178571,,,,,Cap space,11392857,11.392857
+115,Robert Covington,Houston Rockets,11301219,12138345,12975471,,,,Cap Space,36415035,11.301219
+116,Meyers Leonard,Miami Heat,11286515,,,,,,Cap Space,11286515,11.286515
+117,T.J. Warren,Indiana Pacers,10810000,11750000,12690000,,,,1st Round Pick,35250000,10.81
+118,Andre Roberson,Oklahoma City Thunder,10740741,,,,,,Bird Rights,10740741,10.740741
+119,Spencer Dinwiddie,Brooklyn Nets,10600000,11400000,12300000,,,,Minimum Salary,22000000,10.6
+120,Jeremy Lamb,Indiana Pacers,10500000,10500000,10500000,,,,Cap Space,31500000,10.5
+121,Dwight Powell,Dallas Mavericks,10259375,10185185,11000000,11814815,,,Cap Space,43259375,10.259375
+122,Norman Powell,Toronto Raptors,10116576,10865952,11615328,,,,Cap Space,20982528,10.116576
+123,Josh Richardson,Philadelphia 76ers,10100000,10800000,11600000,,,,Minimum Salary,20900000,10.1
+124,Tomáš Satoranský,Chicago Bulls,10000000,10000000,10000000,,,,Sign and Trade,25000000,10
+125,DeAndre Jordan,Brooklyn Nets,9881598,10375678,9881598,9821842,,,Cap space,39960716,9.881598
+126,Taj Gibson,New York Knicks,9800000,10290000,,,,,Cap Space,9800000,9.8
+127,Zion Williamson,New Orleans Pelicans,9757440,10245480,10733400,13534817,,,1st Round Pick,20002920,9.75744
+128,Markelle Fultz,Orlando Magic,9745200,12288697,,,,,1st Round Pick,22033897,9.7452
+129,John Henson,Detroit Pistons,9732396,,,,,,1st Round Pick,9732396,9.732396
+130,Matthew Dellavedova,Cleveland Cavaliers,9607500,,,,,,Cap Space,9607500,9.6075
+131,Dante Exum,Cleveland Cavaliers,9600000,9600000,,,,,Cap Space,18200000,9.6
+132,Deandre Ayton,Phoenix Suns,9562920,10018200,12632950,,,,1st Round Pick,19581120,9.56292
+133,Delon Wright,Dallas Mavericks,9473684,9000000,8526316,,,,Sign and Trade,27000000,9.473684
+134,Jerami Grant,Denver Nuggets,9346153,9346153,,,,,Bird Rights,9346153,9.346153
+135,Al-Farouq Aminu,Orlando Magic,9258000,9720900,10183800,,,,MLE,29162700,9.258
+136,George Hill,Milwaukee Bucks,9133907,9590602,10047297,,,,Cap Space,21000000,9.133907
+137,Kyle Anderson,Memphis Grizzlies,9073050,9505100,9937150,,,,MLE,28515300,9.07305
+138,Fred VanVleet,Toronto Raptors,9000000,,,,,,Bird Rights,9000000,9
+139,Ja Morant,Memphis Grizzlies,8730240,9166800,9603360,12119440,,,1st Round Pick,17897040,8.73024
+140,C.J. Miles,Washington Wizards,8730158,,,,,,,8730158,8.730158
+141,Lonzo Ball,New Orleans Pelicans,8719320,11003782,,,,,1st Round Pick,19723102,8.71932
+142,E'Twaun Moore,New Orleans Pelicans,8664928,,,,,,Cap Space,8664928,8.664928
+143,Marvin Bagley III,Sacramento Kings,8556120,8963640,11312114,,,,1st Round Pick,17519760,8.55612
+144,Bogdan Bogdanović,Sacramento Kings,8529386,,,,,,Cap space,8529386,8.529386
+145,Tyus Jones,Memphis Grizzlies,8408000,7965100,7522200,,,,MLE,23895300,8.408
+146,P.J. Tucker,Houston Rockets,8349039,7969537,,,,,MLE,16318576,8.349039
+147,Cristiano Felício,Chicago Bulls,8156500,7529020,,,,,Cap space,15685520,8.1565
+148,Ben Simmons,Philadelphia 76ers,8113930,29250000,31590000,33930000,36270000,38610000,1st Round pick,177763930,8.11393
+149,Kentavious Caldwell-Pope,LA Lakers,8089282,8493746,,,,,Cap Space,8089282,8.089282
+150,Maxi Kleber,Dallas Mavericks,8000000,8250000,8750000,9000000,,,Early Bird Rights,25000000,8
+151,Lou Williams,LA Clippers,8000000,8000000,,,,,Cap Space,16000000,8
+152,Elfrid Payton,New York Knicks,8000000,8000000,,,,,Cap Space,9000000,8
+153,Thomas Bryant,Washington Wizards,7936508,8333333,8730159,,,,Early Bird Rights,25000000,7.936508
+154,RJ Barrett,New York Knicks,7839960,8231760,8623920,10900635,,,1st Round Pick,16071720,7.83996
+155,Jayson Tatum,Boston Celtics,7830000,9897120,,,,,1st Round Pick,17727120,7.83
+156,Jae Crowder,Miami Heat,7815533,,,,,,Bird Rights,7815533,7.815533
+157,Wayne Ellington,New York Knicks,7804878,8195122,,,,,Cap Space,7804878,7.804878
+158,Luka Dončić,Dallas Mavericks,7683360,8049360,10174391,,,,1st Round Pick,15732720,7.68336
+159,Joe Harris,Brooklyn Nets,7670000,,,,,,Early Bird Rights,7670000,7.67
+160,Seth Curry,Dallas Mavericks,7441860,7813953,8186047,8558140,,,MLE,32000000,7.44186
+161,Doug McDermott,Indiana Pacers,7333334,7333333,,,,,Cap Space,14666667,7.333334
+162,Langston Galloway,Detroit Pistons,7333333,,,,,,MLE,7333333,7.333333
+163,Derrick Rose,Detroit Pistons,7317073,7682927,,,,,MLE,15000000,7.317073
+164,Brandon Ingram,New Orleans Pelicans,7265485,,,,,,1st Round pick,7265485,7.265485
+165,D.J. Augustin,Orlando Magic,7250000,,,,,,Cap Space,7250000,7.25
+166,Darius Miller,New Orleans Pelicans,7250000,7000000,,,,,Early Bird Rights,7250000,7.25
+167,De'Andre Hunter,Atlanta Hawks,7068360,7422000,7775400,9835881,,,1st Round Pick,14490360,7.06836
+168,Josh Jackson,Memphis Grizzlies,7059480,,,,,,1st Round Pick,7059480,7.05948
+169,Dāvis Bertāns,Washington Wizards,7000000,,,,,,Early Bird Rights,7000000,7
+170,Ersan İlyasova,Milwaukee Bucks,7000000,7000000,,,,,MLE,7000000,7
+171,Jaren Jackson,Memphis Grizzlies,6927480,7257360,9180560,,,,1st Round Pick,14184840,6.92748
+172,DeMarre Carroll,San Antonio Spurs,6842307,6167887,1252127,,,,,14262321,6.842307
+173,Nemanja Bjelica,Sacramento Kings,6825000,7150000,,,,,Cap Space,6825000,6.825
+174,Jaylen Brown,Boston Celtics,6534829,22991071,24830357,26669643,28508929,,1st Round pick,109534829,6.534829
+175,Jabari Parker,Sacramento Kings,6500000,6500000,,,,,Cap Space,6500000,6.5
+176,Ivica Zubac,LA Clippers,6481482,7000000,7518518,7518518,,,Bird Rights,21000000,6.481482
+177,Joakim Noah,New York Knicks,6431666,6431666,6431666,,,,,19294998,6.431666
+178,Darius Garland,Cleveland Cavaliers,6400920,6720720,7040880,8920795,,,1st Round Pick,13121640,6.40092
+179,De'Aaron Fox,Sacramento Kings,6392760,8099627,,,,,1st Round Pick,14492387,6.39276
+180,Trae Young,Atlanta Hawks,6273000,6571800,8326471,,,,1st Round Pick,12844800,6.273
+181,Montrezl Harrell,LA Clippers,6000000,,,,,,Bird Rights,6000000,6
+182,Ish Smith,Washington Wizards,5853659,6146341,,,,,MLE,12000000,5.853659
+183,Marco Belinelli,San Antonio Spurs,5846154,,,,,,MLE,5846154,5.846154
+184,Jarrett Culver,Minnesota Timberwolves,5813640,6104280,6395160,8109063,,,1st Round Pick,11917920,5.81364
+185,Jonathan Isaac,Orlando Magic,5806440,7362566,,,,,1st Round Pick,13169006,5.80644
+186,Rodney Hood,Portland Trailblazers,5718000,6003900,,,,,MLE,5718000,5.718
+187,Mo Bamba,Orlando Magic,5697600,5969040,7568742,,,,1st Round Pick,11666640,5.6976
+188,Timofey Mozgov,Orlando Magic,5573333,5573333,5573334,,,,,16720000,5.573333
+189,Trey Lyles,San Antonio Spurs,5500000,5500000,,,,,MLE,5500000,5.5
+190,Deron Williams,Brooklyn Nets,5474787,,,,,,,5474787,5.474787
+191,Aron Baynes,Phoenix Suns,5453280,,,,,,Non-Bird Exception,5453280,5.45328
+192,Kris Dunn,Chicago Bulls,5348007,,,,,,1st Round pick,5348007,5.348007
+193,Josh Smith,Detroit Pistons,5331729,,,,,,,5331729,5.331729
+194,Coby White,Chicago Bulls,5307120,5572680,5837760,7413955,,,1st Round Pick,10879800,5.30712
+195,Lauri Markkanen,Chicago Bulls,5300400,6731508,,,,,1st Round Pick,12031908,5.3004
+196,Ryan Anderson,Miami Heat,5214583,5214583,5214584,,,,,15643750,5.214583
+197,Wendell Carter,Chicago Bulls,5201400,5448840,6920027,,,,1st Round Pick,10650240,5.2014
+198,Pau Gasol,San Antonio Spurs,5100000,,,,,,,5100000,5.1
+199,Daniel Theis,Boston Celtics,5000000,5000000,,,,,Early Bird Rights,5000000,5
+200,Luol Deng,LA Lakers,4990000,4990000,4990000,,,,,14970000,4.99
+201,Jaxson Hayes,New Orleans Pelicans,4862040,5105160,5348280,6803012,,,1st Round Pick,9967200,4.86204
+202,Buddy Hield,Sacramento Kings,4861208,24431818,22477273,20522727,18568182,,1st Round pick,90861208,4.861208
+203,Frank Ntilikina,New York Knicks,4855800,6176578,,,,,1st Round Pick,11032378,4.8558
+204,Ed Davis,Utah Jazz,4767000,5005350,,,,,Room Exception,9772350,4.767
+205,Richaun Holmes,Sacramento Kings,4767000,5005350,,,,,Room Exception,9772350,4.767
+206,Frank Kaminsky,Phoenix Suns,4767000,5005350,,,,,Room Exception,9772350,4.767
+207,Mike Scott,Philadelphia 76ers,4767000,5005350,,,,,Room Exception,9772350,4.767
+208,Avery Bradley,LA Lakers,4767000,5005350,,,,,Room Exception,9772350,4.767
+209,Robin Lopez,Milwaukee Bucks,4767000,5005350,,,,,Room Exception,4767000,4.767
+210,JaMychal Green,LA Clippers,4767000,5005350,,,,,Room Exception,4767000,4.767
+211,Justin Holiday,Indiana Pacers,4767000,,,,,,Room Exception,4767000,4.767
+212,Garrett Temple,Brooklyn Nets,4767000,5005350,,,,,Room Exception,4767000,4.767
+213,Enes Kanter,Boston Celtics,4767000,5005350,,,,,Room Exception,4767000,4.767
+214,Collin Sexton,Cleveland Cavaliers,4764960,4991880,6349671,,,,1st Round Pick,9756840,4.76496
+215,Rodney McGruder,LA Clippers,4629630,5000000,5370370,,,,Cap Space,15000000,4.62963
+216,Rui Hachimura,Washington Wizards,4469160,4692840,4916160,6263188,,,1st Round Pick,9162000,4.46916
+217,Kevon Looney,Golden State Warriors,4464286,4821429,5178572,,,,Bird Rights,9285715,4.464286
+218,Dennis Smith,New York Knicks,4463640,5686677,,,,,1st Round Pick,10150317,4.46364
+219,Jamal Murray,Denver Nuggets,4444746,29250000,31590000,33930000,36270000,38610000,1st Round pick,174094746,4.444746
+220,Kevin Knox,New York Knicks,4380120,4588680,5845978,,,,1st Round Pick,8968800,4.38012
+221,Cam Reddish,Atlanta Hawks,4245720,4458000,4670160,5954454,,,1st Round Pick,8703720,4.24572
+222,Zach Collins,Portland Trailblazers,4240200,5406255,,,,,1st Round Pick,9646455,4.2402
+223,Mikal Bridges,Phoenix Suns,4161000,4359000,5557725,,,,1st Round Pick,8520000,4.161
+224,Alex Len,Sacramento Kings,4160000,,,,,,Room Exception,4160000,4.16
+225,Cameron Johnson,Phoenix Suns,4033440,4235160,4437000,5887899,,,1st Round Pick,8268600,4.03344
+226,Malik Monk,Charlotte Hornets,4028400,5345687,,,,,1st Round Pick,9374087,4.0284
+227,Dorian Finney-Smith,Dallas Mavericks,4000000,4000000,4000000,,,,Bird Rights,12000000,4
+228,JaVale McGee,LA Lakers,4000000,4200000,,,,,Cap Space,8200000,4
+229,Patrick McCaw,Toronto Raptors,4000000,4000000,,,,,MLE,8000000,4
+230,Reggie Bullock,New York Knicks,4000000,4200000,,,,,Room Exception,5000000,4
+231,Shai Gilgeous-Alexander,Oklahoma City Thunder,3952920,4141320,5495532,,,,1st Round Pick,8094240,3.95292
+232,Nicolò Melli,New Orleans Pelicans,3902439,4097561,,,,,Room Exception,8000000,3.902439
+233,P.J. Washington ,Charlotte Hornets,3831840,4023600,4215120,5808435,,,1st Round Pick,7855440,3.83184
+234,Luke Kennard,Detroit Pistons,3827160,5273826,,,,,1st Round Pick,9100986,3.82716
+235,Miles Bridges,Charlotte Hornets,3755400,3934320,5421493,,,,1st Round Pick,7689720,3.7554
+236,Jakob Pöltl,San Antonio Spurs,3754886,,,,,,1st Round pick,3754886,3.754886
+237,Tyler Herro,Miami Heat,3640200,3822240,4004280,5722116,,,1st Round Pick,7462440,3.6402
+238,Donovan Mitchell,Utah Jazz,3635760,5195501,,,,,1st Round Pick,8831261,3.63576
+239,Stanley Johnson,Toronto Raptors,3623000,3801000,,,,,Bi-annual Exception,3623000,3.623
+240,Jake Layman,Minnesota Timberwolves,3581986,3761085,3940184,,,,Sign and Trade,11283255,3.581986
+241,Thon Maker,Detroit Pistons,3569643,,,,,,1st Round pick,3569643,3.569643
+242,Jerome Robinson,Washington Wizards,3567720,3737520,5340916,,,,1st Round Pick,7305240,3.56772
+243,Allonzo Trier,New York Knicks,3551100,,,,,,Bi-Annual Exception,3551100,3.5511
+244,Danuel House,Houston Rockets,3540000,3717000,3894000,,,,MLE,11151000,3.54
+245,Domantas Sabonis,Indiana Pacers,3529555,17187500,18562500,19937500,21312500,,1st Round pick,80529555,3.529555
+246,Mirza Teletović,Milwaukee Bucks,3500000,3500000,,,,,,7000000,3.5
+247,Boban Marjanović,Dallas Mavericks,3500000,3500000,,,,,Bi-Annual Exception,7000000,3.5
+248,T.J. McConnell,Indiana Pacers,3500000,3500000,,,,,Cap Space,4500000,3.5
+249,DeMarcus Cousins,LA Lakers,3500000,,,,,,,3500000,3.5
+250,Taurean Waller-Prince,Brooklyn Nets,3481986,13942308,15057692,,,,1st Round pick,32481986,3.481986
+251,Dario Šarić,Phoenix Suns,3481986,,,,,,1st Round pick,3481986,3.481986
+252,Romeo Langford,Boston Celtics,3458400,3631200,3804360,5634257,,,1st Round Pick,7089600,3.4584
+253,Bam Adebayo,Miami Heat,3454080,5115492,,,,,1st Round Pick,8569572,3.45408
+254,Kyle Korver,Phoenix Suns,3440000,,,,,,,3440000,3.44
+255,Michael Porter,Denver Nuggets,3389400,3550800,5258735,,,,1st Round Pick,6940200,3.3894
+256,Denzel Valentine,Chicago Bulls,3377569,,,,,,1st Round pick,3377569,3.377569
+257,Juan Hernangómez,Minnesota Timberwolves,3321030,,,,,,1st Round pick,3321030,3.32103
+258,Sekou Doumbouya,Detroit Pistons,3285120,3449400,3613680,5539771,,,1st Round Pick,6734520,3.28512
+259,Justin Jackson,Dallas Mavericks,3280920,5029650,,,,,1st Round Pick,8310570,3.28092
+260,Troy Brown,Washington Wizards,3219480,3372840,5170564,,,,1st Round Pick,6592320,3.21948
+261,Jon Leuer,Milwaukee Bucks,3169348,3169348,3169347,,,,,9508043,3.169348
+262,Yogi Ferrell,Sacramento Kings,3150000,,,,,,Cap Space,3150000,3.15
+263,Guerschon Yabusele,Boston Celtics,3117240,,,,,,,3117240,3.11724
+264,Zhaire Smith,Philadelphia 76ers,3058800,3204600,4915856,,,,1st Round Pick,6263400,3.0588
+265,Dwight Howard,Memphis Grizzlies,3039097,,,,,,,3039097,3.039097
+266,Khem Birch,Orlando Magic,3000000,3000000,,,,,Early Bird Rights,6000000,3
+267,Ryan Arcidiacono,Chicago Bulls,3000000,3000000,3000000,,,,Cap space,6000000,3
+268,Quinn Cook,LA Lakers,3000000,3000000,,,,,Cap Space,4000000,3
+269,Ömer Aşık,Chicago Bulls,3000000,,,,,,,3000000,3
+270,Nickeil Alexander-Walker,New Orleans Pelicans,2964840,3113160,3261480,5009633,,,1st Round Pick,6078000,2.96484
+271,D.J. Wilson,Milwaukee Bucks,2961120,4548280,,,,,1st Round Pick,7509400,2.96112
+272,Cedi Osman,Cleveland Cavaliers,2907143,8750000,8050000,7350000,6650000,,MLE,27057143,2.907143
+273,Donte DiVincenzo,Milwaukee Bucks,2905800,3044160,4675830,,,,1st Round Pick,5949960,2.9058
+274,Bryn Forbes,San Antonio Spurs,2875000,,,,,,Early Bird Rights,2875000,2.875
+275,Andrew Nicholson,Portland Trailblazers,2844429,2844429,2844429,2844429,2844429,,,14222145,2.844429
+276,Goga Bitadze,Indiana Pacers,2816760,2957520,3098400,4765339,,,1st Round Pick,5774280,2.81676
+277,T.J. Leaf,Indiana Pacers,2813280,4326825,,,,,1st Round Pick,7140105,2.81328
+278,Lonnie Walker,San Antonio Spurs,2760480,2892000,4447896,,,,1st Round Pick,5652480,2.76048
+279,Alex Caruso,LA Lakers,2750000,2750000,,,,,Room Exception,5500000,2.75
+280,Malik Beasley,Minnesota Timberwolves,2731714,,,,,,1st Round pick,2731714,2.731714
+281,Luka Šamanić,San Antonio Spurs,2689920,2824320,2959080,4556983,,,1st Round Pick,5514240,2.68992
+282,John Collins,Atlanta Hawks,2686560,4137302,,,,,1st Round Pick,6823862,2.68656
+283,Kevin Huerter,Atlanta Hawks,2636280,2761920,4253357,,,,1st Round Pick,5398200,2.63628
+284,Caris LeVert,Brooklyn Nets,2625718,16203704,17500000,18796296,,,1st Round pick,55125718,2.625718
+285,Marko Guduric,Memphis Grizzlies,2625000,2750000,,,,,Bi-annual Exception,5375000,2.625
+286,DeAndre' Bembry,Atlanta Hawks,2603982,,,,,,1st Round pick,2603982,2.603982
+287,Matisse Thybulle,Philadelphia 76ers,2582160,2711280,2840160,4379527,,,1st Round Pick,5293440,2.58216
+288,Harry Giles,Sacramento Kings,2578800,,,,,,1st Round Pick,2578800,2.5788
+289,Jeff Green,Utah Jazz,2564753,,,,,,,2564753,2.564753
+290,Pau Gasol,Portland Trailblazers,2564753,,,,,,,2564753,2.564753
+291,Wesley Matthews,Milwaukee Bucks,2564753,2692991,,,,,Minimum Salary,2564753,2.564753
+292,Kyle Korver,Milwaukee Bucks,2564753,,,,,,Minimum Salary,2564753,2.564753
+293,Udonis Haslem,Miami Heat,2564753,,,,,,Minimum Salary,2564753,2.564753
+294,Jared Dudley,LA Lakers,2564753,,,,,,Minimum Salary,2564753,2.564753
+295,Rajon Rondo,LA Lakers,2564753,2619605,,,,,Minimum Salary,2564753,2.564753
+296,Dwight Howard,LA Lakers,2564753,,,,,,Minimum Salary,2564753,2.564753
+297,Thabo Sefolosha,Houston Rockets,2564753,,,,,,Minimum Salary,2564753,2.564753
+298,Tyson Chandler,Houston Rockets,2564753,,,,,,Minimum Salary,2564753,2.564753
+299,Gerald Green,Denver Nuggets,2564753,,,,,,,2564753,2.564753
+300,J.J. Barea,Dallas Mavericks,2564753,,,,,,Minimum Salary,2564753,2.564753
+301,Wilson Chandler,Brooklyn Nets,2564753,,,,,,Minimum Salary,2564753,2.564753
+302,Nenê Hilário,Atlanta Hawks,2564753,,,,,,,2564753,2.564753
+303,Vince Carter,Atlanta Hawks,2564753,,,,,,Minimum Salary,2564753,2.564753
+304,Josh Okogie,Minnesota Timberwolves,2530680,2651040,4087904,,,,1st Round Pick,5181720,2.53068
+305,Vincent Poirier,Boston Celtics,2505793,2619207,,,,,Minimum Salary,5125000,2.505793
+306,Rondae Hollis-Jefferson,Toronto Raptors,2500000,,,,,,MLE,2500000,2.5
+307,Brandon Clarke,Memphis Grizzlies,2478840,2602920,2726880,4343920,,,1st Round Pick,5081760,2.47884
+308,Terrance Ferguson,Oklahoma City Thunder,2475840,3944013,,,,,1st Round Pick,6419853,2.47584
+309,Grayson Allen,Memphis Grizzlies,2429400,2545320,4054695,,,,1st Round Pick,4974720,2.4294
+310,Anthony Tolliver,Sacramento Kings,2419852,,,,,,,2419852,2.419852
+311,Grant Williams,Boston Celtics,2379840,2498760,2617800,4306281,,,1st Round Pick,4878600,2.37984
+312,Jarrett Allen,Brooklyn Nets,2376840,3909902,,,,,1st Round Pick,6286742,2.37684
+313,Pascal Siakam,Toronto Raptors,2351839,29000000,31320000,33640000,35960000,,1st Round pick,132271839,2.351839
+314,Skal Labissière,Atlanta Hawks,2338847,,,,,,1st Round pick,2338847,2.338847
+315,Chandler Hutchison,Chicago Bulls,2332320,2443440,4019459,,,,1st Round Pick,4775760,2.33232
+316,Patrick Patterson,LA Clippers,2331593,,,,,,Minimum Salary,2331593,2.331593
+317,Dejounte Murray,San Antonio Spurs,2321735,14285714,15428571,16571429,17714286,,1st Round pick,66321735,2.321735
+318,Alec Burks,Philadelphia 76ers,2320044,,,,,,Minimum Salary,2320044,2.320044
+319,Isaiah Thomas,LA Clippers,2320044,,,,,,,2320044,2.320044
+320,Damian Jones,Atlanta Hawks,2305057,,,,,,1st Round pick,2305057,2.305057
+321,Darius Bazley,Oklahoma City Thunder,2284800,2399160,2513040,4264629,,,1st Round Pick,4683960,2.2848
+322,OG Anunoby,Toronto Raptors,2281800,3872215,,,,,1st Round Pick,6154015,2.2818
+323,Ante Žižić,Cleveland Cavaliers,2281800,,,,,,1st Round Pick,2281800,2.2818
+324,Monta Ellis,Indiana Pacers,2245400,2245400,2245400,,,,,6736200,2.2454
+325,Markieff Morris,Detroit Pistons,2241808,,,,,,,2241808,2.241808
+326,Aaron Holiday,Indiana Pacers,2239200,2345640,3980551,,,,1st Round Pick,4584840,2.2392
+327,Luke Kornet,Chicago Bulls,2195122,2304878,,,,,Room Exception,4500000,2.195122
+328,Ty Jerome,Phoenix Suns,2193480,2303040,2412840,4220057,,,1st Round Pick,4496520,2.19348
+329,Willie Cauley-Stein,Dallas Mavericks,2177483,2286357,,,,,MLE,2177483,2.177483
+330,Austin Rivers,Houston Rockets,2174318,2369663,,,,,Minimum Salary,2174318,2.174318
+331,Carmelo Anthony,Portland Trailblazers,2159029,,,,,,Minimum Salary,2159029,2.159029
+332,Anfernee Simons,Portland Trailblazers,2149560,2252040,3938818,,,,1st Round Pick,4401600,2.14956
+333,Matt Barnes,Sacramento Kings,2133541,,,,,,,2133541,2.133541
+334,Nassir Little,Portland Trailblazers,2105520,2210640,2316240,4171548,,,1st Round Pick,4316160,2.10552
+335,Toronto Raptorsrey Craig,Denver Nuggets,2100000,,,,,,Cap Space,2100000,2.1
+336,Moritz Wagner,Washington Wizards,2063520,2161920,3893618,,,,1st Round Pick,4225440,2.06352
+337,Dylan Windler,Cleveland Cavaliers,2035800,2137440,2239200,4037278,,,1st Round Pick,4173240,2.0358
+338,Caleb Swanigan,Portland Trailblazers,2033160,,,,,,1st Round Pick,2033160,2.03316
+339,Trey Burke,Philadelphia 76ers,2028594,,,,,,,2028594,2.028594
+340,Kyle O'Quinn,Philadelphia 76ers,2028594,,,,,,Minimum Salary,2028594,2.028594
+341,Michael Carter-Williams,Orlando Magic,2028594,,,,,,Minimum Salary,2028594,2.028594
+342,Mike Muscala,Oklahoma City Thunder,2028594,2283034,,,,,Minimum Salary,2028594,2.028594
+343,Nerlens Noel,Oklahoma City Thunder,2028594,,,,,,Minimum Salary,2028594,2.028594
+344,Troy Daniels,LA Lakers,2028594,,,,,,,2028594,2.028594
+345,Ben McLemore,Houston Rockets,2028594,2283034,,,,,Minimum Salary,2028594,2.028594
+346,Spencer Hawes,Milwaukee Bucks,2007058,,,,,,,2007058,2.007058
+347,Edmond Sumner,Indiana Pacers,2000000,2160000,2320000,,,,Cap Space,4160000,2
+348,Avery Bradley,Memphis Grizzlies,2000000,,,,,,,2000000,2
+349,Noah Vonleh,Denver Nuggets,2000000,,,,,,MLE,2000000,2
+350,Landry Shamet,LA Clippers,1995120,2090040,3768342,,,,1st Round Pick,4085160,1.99512
+351,Mfiondu Kabengele,LA Clippers,1977000,2075880,2174880,3923484,,,1st Round Pick,4052880,1.977
+352,Kyle Kuzma,LA Lakers,1974600,3562178,,,,,1st Round Pick,5536778,1.9746
+353,Jordan Poole,Golden State Warriors,1964760,2063280,2161440,3901399,,,1st Round Pick,4028040,1.96476
+354,Tony Bradley,Utah Jazz,1962360,3542060,,,,,1st Round Pick,5504420,1.96236
+355,Keldon Johnson,San Antonio Spurs,1950600,2048040,2145720,3873025,,,1st Round Pick,3998640,1.9506
+356,Derrick White,San Antonio Spurs,1948080,3516284,,,,,1st Round Pick,5464364,1.94808
+357,Robert Williams,Boston Celtics,1937520,2029920,3661976,,,,1st Round Pick,3967440,1.93752
+358,Josh Hart,New Orleans Pelicans,1934160,3491159,,,,,1st Round Pick,5425319,1.93416
+359,Jacob Evans,Minnesota Timberwolves,1925880,2017320,3641263,,,,1st Round Pick,3943200,1.92588
+360,Anderson Varejão,Portland Trailblazers,1913345,1913345,,,,,,3826690,1.913345
+361,Džanan Musa,Brooklyn Nets,1911600,2002800,3615054,,,,1st Round Pick,3914400,1.9116
+362,Omari Spellman,Minnesota Timberwolves,1897800,1988280,3588845,,,,1st Round Pick,3886080,1.8978
+363,Shabazz Napier,Washington Wizards,1882867,,,,,,Cap Space,1882867,1.882867
+364,Glenn Robinson,Philadelphia 76ers,1882867,2071978,,,,,Minimum Salary,1882867,1.882867
+365,James Ennis,Orlando Magic,1882867,2071978,,,,,Minimum Salary,1882867,1.882867
+366,Tim Frazier,Detroit Pistons,1882867,,,,,,,1882867,1.882867
+367,Larry Sanders,Milwaukee Bucks,1865547,1865547,1865547,,,,,5596641,1.865547
+368,Bruno Caboclo,Houston Rockets,1845301,,,,,,Minimum Salary,1845301,1.845301
+369,Markieff Morris,LA Lakers,1750000,,,,,,DPE,1750000,1.75
+370,Mario Hezonja,Portland Trailblazers,1737145,1882867,,,,,Minimum Salary,3620012,1.737145
+371,Emmanuel Mudiay,Utah Jazz,1737145,,,,,,Minimum Salary,1737145,1.737145
+372,Raul Neto,Philadelphia 76ers,1737145,,,,,,Minimum Salary,1737145,1.737145
+373,JaKarr Sampson,Indiana Pacers,1737145,,,,,,Minimum Salary,1737145,1.737145
+374,Pat Connaughton,Milwaukee Bucks,1723050,,,,,,MLE,1723050,1.72305
+375,Jahlil Okafor,New Orleans Pelicans,1702486,,,,,,Minimum Salary,1702486,1.702486
+376,Rodions Kurucs,Brooklyn Nets,1699236,1780152,1861068,,,,Cap space,3479388,1.699236
+377,Jonah Bolden,Philadelphia 76ers,1698450,,,,,,,1698450,1.69845
+378,Georges Niang,Utah Jazz,1678854,1783557,,,,,Non-Bird Exception,1678854,1.678854
+379,Cheick Diallo,Phoenix Suns,1678854,1824003,,,,,Minimum Salary,1678854,1.678854
+380,Dragan Bender,Milwaukee Bucks,1678854,,,,,,,1678854,1.678854
+381,David Nwaba,Brooklyn Nets,1678854,,,,,,,1678854,1.678854
+382,Treveon Graham,Atlanta Hawks,1678854,,,,,,Minimum Salary,1678854,1.678854
+383,Willy Hernangómez,Charlotte Hornets,1676735,,,,,,Cap Space,1676735,1.676735
+384,Derrick Jones,Miami Heat,1645357,,,,,,Minimum Salary,1645357,1.645357
+385,Jordan McRae,Detroit Pistons,1645357,,,,,,Minimum Salary,1645357,1.645357
+386,Christian Wood,Detroit Pistons,1645357,,,,,,Minimum Salary,1645357,1.645357
+387,Furkan Korkmaz,Philadelphia 76ers,1620564,1762796,,,,,Minimum Salary,1620564,1.620564
+388,Jordan Bell,Memphis Grizzlies,1620564,,,,,,,1620564,1.620564
+389,Justin Patton,Dallas Mavericks,1620564,,,,,,,1620564,1.620564
+390,Royce O'Neale,Utah Jazz,1618520,8035714,8678571,9321429,9964286,,Cap space,37618520,1.61852
+391,Dillon Brooks,Memphis Grizzlies,1618520,11400000,12200000,11400000,,,MLE,36618520,1.61852
+392,Wesley Iwundu,Orlando Magic,1618520,,,,,,Cap Space,1618520,1.61852
+393,Abdel Nader,Oklahoma City Thunder,1618520,1752950,,,,,Cap Space,1618520,1.61852
+394,Damyean Dotson,New York Knicks,1618520,,,,,,Minimum Salary,1618520,1.61852
+395,Frank Jackson,New Orleans Pelicans,1618520,,,,,,MLE,1618520,1.61852
+396,Sterling Brown,Milwaukee Bucks,1618520,,,,,,MLE,1618520,1.61852
+397,Dwayne Bacon,Charlotte Hornets,1618520,,,,,,MLE,1618520,1.61852
+398,Semi Ojeleye,Boston Celtics,1618520,1752950,,,,,Cap space,1618520,1.61852
+399,Chris Boucher,Toronto Raptors,1588231,,,,,,Minimum Salary,1588231,1.588231
+400,Malcolm Miller,Toronto Raptors,1588231,,,,,,Minimum Salary,1588231,1.588231
+401,Monte Morris,Denver Nuggets,1588231,1663861,,,,,Minimum Salary,1588231,1.588231
+402,Mitchell Robinson,New York Knicks,1559712,1663861,1802057,,,,MLE,1559712,1.559712
+403,Vlatko Čančar,Denver Nuggets,1517981,898310,1782621,,,,MLE,2416291,1.517981
+404,Isaiah Roby,Oklahoma City Thunder,1500000,1517981,1782621,1930681,,,MLE,3017981,1.5
+405,Nigel Williams-Goss,Utah Jazz,1500000,1517981,1782621,,,,Cap Space,1500000,1.5
+406,J.R. Smith,Cleveland Cavaliers,1456667,1456667,1456666,,,,,4370000,1.456667
+407,Shake Milton,Philadelphia 76ers,1445697,1701593,1846738,1997718,,,Cap Space,4994028,1.445697
+408,Thanasis Antetokounmpo,Milwaukee Bucks,1445697,1701593,,,,,Minimum Salary,3147290,1.445697
+409,Amile Jefferson,Orlando Magic,1445697,,,,,,,1445697,1.445697
+410,Theo Pinson,Brooklyn Nets,1445697,1701593,,,,,Minimum Salary,1445697,1.445697
+411,Brad Wanamaker,Boston Celtics,1445697,,,,,,Minimum Salary,1445697,1.445697
+412,Derrick Walton,Atlanta Hawks,1445697,,,,,,,1445697,1.445697
+413,Ryan Broekhoff,Dallas Mavericks,1443842,,,,,,,1443842,1.443842
+414,Gary Trent,Portland Trailblazers,1416852,1663861,,,,,MLE,3080713,1.416852
+415,Isaac Bonga,Washington Wizards,1416852,1663861,,,,,Cap Space,1416852,1.416852
+416,Chimezie Metu,San Antonio Spurs,1416852,1663861,,,,,MLE,1416852,1.416852
+417,Jevon Carter,Phoenix Suns,1416852,,,,,,Minimum Salary,1416852,1.416852
+418,Elie Okobo,Phoenix Suns,1416852,1663861,1802057,,,,Cap Space,1416852,1.416852
+419,Melvin Frazier,Orlando Magic,1416852,1663861,,,,,MLE,1416852,1.416852
+420,Deonte Burton,Oklahoma City Thunder,1416852,1663861,,,,,Minimum Salary,1416852,1.416852
+421,Hamidou Diallo,Oklahoma City Thunder,1416852,1663861,,,,,MLE,1416852,1.416852
+422,Kenrich Williams,New Orleans Pelicans,1416852,,,,,,Minimum Salary,1416852,1.416852
+423,Jarred Vanderbilt,Minnesota Timberwolves,1416852,1663861,,,,,Cap Space,1416852,1.416852
+424,Duncan Robinson,Miami Heat,1416852,1663861,,,,,MLE,1416852,1.416852
+425,Kendrick Nunn,Miami Heat,1416852,1663861,,,,,Minimum Salary,1416852,1.416852
+426,De'Anthony Melton,Memphis Grizzlies,1416852,,,,,,Cap Space,1416852,1.416852
+427,Alize Johnson,Indiana Pacers,1416852,,,,,,Minimum Salary,1416852,1.416852
+428,Isaiah Hartenstein,Houston Rockets,1416852,1663861,,,,,MLE,1416852,1.416852
+429,Sviatoslav Mykhailiuk,Detroit Pistons,1416852,1663861,,,,,Cap Space,1416852,1.416852
+430,Bruce Brown,Detroit Pistons,1416852,1663861,,,,,MLE,1416852,1.416852
+431,Keita Bates-Diop,Denver Nuggets,1416852,1663861,,,,,MLE,1416852,1.416852
+432,Devonte' Graham,Charlotte Hornets,1416852,1663861,,,,,MLE,1416852,1.416852
+433,Jalen Brunson,Dallas Mavericks,1416582,1663861,1802057,,,,Cap Space,3080443,1.416582
+434,Bruno Fernando,Atlanta Hawks,1400000,1517981,1782621,,,,Cap space,4700602,1.4
+435,Jaylen Nowell,Minnesota Timberwolves,1400000,1517981,1782621,1930681,,,MLE,1400000,1.4
+436,Alfonzo McKinnie,Cleveland Cavaliers,1361046,1762796,1910860,2165298,,,MLE,2253031,1.361046
+437,Kevin Porter,Cleveland Cavaliers,1290960,2033160,2130240,3845083,,,1st Round Pick,3324120,1.29096
+438,Carsen Edwards,Boston Celtics,1228026,1517981,1782621,1930681,,,Cap space,4528628,1.228026
+439,Cody Martin,Charlotte Hornets,1173310,1517981,1782621,,,,MLE,4473912,1.17331
+440,Gary Payton,Washington Wizards,1090781,,,,,,Minimum Salary,1090781,1.090781
+441,George Hill,Milwaukee Bucks,1000000,,,,,,,21000000,1
+442,Terance Mann,LA Clippers,1000000,1517984,1782621,1930681,,,Minimum Salary,2517984,1
+443,Jonathon Simmons,Washington Wizards,1000000,,,,,,,1000000,1
+444,Justin Hamilton,Toronto Raptors,1000000,,,,,,,1000000,1
+445,Kyle Singler,Oklahoma City Thunder,999200,999200,999200,999200,,,,3996800,0.9992
+446,Marvin Williams,Milwaukee Bucks,956349,,,,,,Minimum Salary,956349,0.956349
+447,Admiral Schofield,Washington Wizards,898310,1517981,1782621,,,,MLE,4198912,0.89831
+448,KZ Okpala,Miami Heat,898310,1517981,1782621,,,,MLE,4198912,0.89831
+449,Eric Paschall,Golden State Warriors,898310,1517981,1782621,,,,MLE,4198912,0.89831
+450,Nicolas Claxton,Brooklyn Nets,898310,1517981,1782621,,,,Minimum Salary,4198912,0.89831
+451,Justin James,Sacramento Kings,898310,1517981,1782621,,,,Minimum Salary,2416291,0.89831
+452,Jalen Lecque,Phoenix Suns,898310,1517981,1782621,1930681,,,Cap Space,2416291,0.89831
+453,Ignas Brazdeikis,New York Knicks,898310,1517981,1782621,,,,Minimum Salary,2416291,0.89831
+454,Talen Horton-Tucker,LA Lakers,898310,1517981,,,,,Minimum Salary,2416291,0.89831
+455,Daniel Gafford,Chicago Bulls,898310,1517981,1782621,1930681,,,Minimum Salary,2416291,0.89831
+456,Alen Smailagić,Golden State Warriors,898310,1517981,1782621,1930681,,,MLE,2415891,0.89831
+457,Matt Thomas,Toronto Raptors,898310,1517981,1782621,,,,MLE,1623310,0.89831
+458,Miye Oni,Utah Jazz,898310,1517981,1782621,,,,Minimum Salary,898310,0.89831
+459,Dewan Hernandez,Toronto Raptors,898310,1517981,1782621,,,,MLE,898310,0.89831
+460,Terence Davis,Toronto Raptors,898310,1517981,,,,,Minimum Salary,898310,0.89831
+461,Wenyen Gabriel,Portland Trailblazers,898310,,,,,,Minimum Salary,898310,0.89831
+462,Naz Reid,Minnesota Timberwolves,898310,1517981,1782621,1930681,,,MLE,898310,0.89831
+463,Jalen McDaniels,Charlotte Hornets,898310,1517981,1782621,1930681,,,Minimum Salary,898310,0.89831
+464,Caleb Martin,Charlotte Hornets,898310,1517981,1782621,,,,Minimum Salary,898310,0.89831
+465,Shaquille Harrison,Chicago Bulls,898310,,,,,,Minimum Salary,898310,0.89831
+466,Javonte Green,Boston Celtics,898310,1517981,,,,,Minimum Salary,898310,0.89831
+467,Damion Lee,Golden State Warriors,842327,1762796,1910860,,,,MLE,1442327,0.842327
+468,Khyri Thomas,Detroit Pistons,838464,1663861,,,,,MLE,838464,0.838464
+469,DeMarre Carroll,Houston Rockets,811447,,,,,,Minimum Salary,811447,0.811447
+470,Michael Kidd-Gilchrist,Dallas Mavericks,810763,,,,,,Minimum Salary,810763,0.810763
+471,Marquese Chriss,Golden State Warriors,758804,,,,,,,2213272,0.758804
+472,Juwan Morgan,Utah Jazz,746054,,,,,,Minimum Salary,746054,0.746054
+473,Patrick Patterson,Oklahoma City Thunder,737067,737067,737066,,,,,2211200,0.737067
+474,Reggie Jackson,LA Clippers,734025,,,,,,Minimum Salary,734025,0.734025
+475,Alfonzo McKinnie,Cleveland Cavaliers,708871,,,,,,,2253031,0.708871
+476,Gary Clark,Houston Rockets,708426,,,,,,,708426,0.708426
+477,Jeff Green,Houston Rockets,695526,,,,,,Minimum Salary,840427,0.695526
+478,Cole Aldrich,Minnesota Timberwolves,685340,685340,,,,,,1370680,0.68534
+479,Shaun Livingston,Golden State Warriors,666667,666667,666666,,,,,2666666,0.666667
+480,Marquese Chriss,Golden State Warriors,654468,1824003,,,,,Minimum Salary,2213272,0.654468
+481,Timothé Luwawu-Cabarrot,Brooklyn Nets,654468,1824003,,,,,Minimum Salary,844170,0.654468
+482,Rayjon Tucker,Utah Jazz,578573,1517981,,,,,Minimum Salary,578574,0.578573
+483,Chris Cleveland Cavaliersmons,Houston Rockets,568422,1517981,1782621,,,,MLE,568422,0.568422
+484,Gary Clark,Orlando Magic,555409,,,,,,Minimum Salary,718765,0.555409
+485,Brandon Goodwin,Atlanta Hawks,522738,1701593,,,,,Minimum Salary,522738,0.522738
+486,Dion Waiters,LA Lakers,503656,,,,,,Minimum Salary,503656,0.503656
+487,Ryan Anderson,Houston Rockets,500000,,,,,,,500000,0.5
+488,Anžejs Pasečņiks,Washington Wizards,482144,,,,,,Minimum Salary,482144,0.482144
+489,Troy Daniels,Denver Nuggets,481000,,,,,,Minimum Salary,481000,0.481
+490,Chris Silva,Miami Heat,466918,1517981,1782621,,,,MLE,1984899,0.466918
+491,Dakari Johnson,Memphis Grizzlies,459414,459414,,,,,,918828,0.459414
+492,Iman Shumpert,Brooklyn Nets,419443,,,,,,,419443,0.419443
+493,Max Strus,Boston Celtics,415414,,,,,,,415414,0.415414
+494,Justin Robinson,Washington Wizards,395866,,,,,,,395866,0.395866
+495,Ivan Rabb,Memphis Grizzlies,371758,,,,,,,371758,0.371758
+496,Norvel Pelle,Philadelphia 76ers,350189,,,,,,Minimum Salary,350189,0.350189
+497,Ky Bowman,Golden State Warriors,350189,1517981,1782621,,,,MLE,350189,0.350189
+498,Juan Toscano-Anderson,Golden State Warriors,350189,1517981,1782621,,,,MLE,350189,0.350189
+499,A.J. Hammons,Miami Heat,350087,350087,,,,,,700174,0.350087
+500,Festus Ezeli,Portland Trailblazers,333333,,,,,,,333333,0.333333
+501,C.J. Watson,Orlando Magic,333333,,,,,,,333333,0.333333
+502,Stanton Kidd,Utah Jazz,250000,,,,,,,250000,0.25
+503,Joe Johnson,Detroit Pistons,220000,,,,,,,220000,0.22
+504,Jemerrio Jones,Washington Wizards,199000,,,,,,,199000,0.199
+505,Jontay Porter,Memphis Grizzlies,197933,1517981,,,,,Minimum Salary,197933,0.197933
+506,Timothé Luwawu-Cabarrot,Brooklyn Nets,189702,,,,,,,844170,0.189702
+507,Dragan Bender,Golden State Warriors,189702,,,,,,Minimum Salary,189702,0.189702
+508,Mychal Mulder,Golden State Warriors,187782,1517981,1782621,,,,Minimum Salary,238534,0.187782
+509,Alfonzo McKinnie,Cleveland Cavaliers,183114,,,,,,,2253031,0.183114
+510,Gary Clark,Orlando Magic,163356,,,,,,,718765,0.163356
+511,Joe Chealey,Charlotte Hornets,163356,,,,,,Minimum Salary,163356,0.163356
+512,Cameron Payne,Toronto Raptors,150000,,,,,,,150000,0.15
+514,Anthony Tolliver,Memphis Grizzlies,144901,,,,,,,144901,0.144901
+515,Joakim Noah,LA Clippers,144901,,,,,,Minimum Salary,144901,0.144901
+516,Troy Williams,Houston Rockets,122741,122741,122741,122741,,,,490964,0.122741
+517,Johnathan Williams,Washington Wizards,106181,,,,,,,106181,0.106181
+518,Tyler Cook,Cleveland Cavaliers,101504,,,,,,,151504,0.101504
+519,Donta Hall,Detroit Pistons,101504,,,,,,,101504,0.101504
+520,Yante Maten,Miami Heat,100000,,,,,,,100000,0.1
+521,Jaylen Adams,Atlanta Hawks,100000,,,,,,,100000,0.1
+522,Justin Anderson,Brooklyn Nets,98144,,,,,,,98144,0.098144
+523,Demetrius Jackson,Boston Celtics,92857,92857,92857,92857,92857,,,464285,0.092857
+524,Jeremy Pargo,Golden State Warriors,91557,,,,,,,91557,0.091557
+525,Chasson Randle,Golden State Warriors,91557,,,,,,Minimum Salary,91557,0.091557
+526,Jonah Bolden,Phoenix Suns,81678,,,,,,,81678,0.081678
+527,Josh Magette,Orlando Magic,81678,,,,,,,81678,0.081678
+528,Jarrod Uthoff,Memphis Grizzlies,81678,,,,,,,81678,0.081678
+529,Dusty Hannahs,Memphis Grizzlies,81678,,,,,,,81678,0.081678
+530,Derrick Walton,Detroit Pistons,81678,,,,,,,81678,0.081678
+531,J.P. Macura,Cleveland Cavaliers,81678,,,,,,,81678,0.081678
+532,Sheldon Mac,Cleveland Cavaliers,81678,,,,,,Minimum Salary,81678,0.081678
+533,Mychal Mulder,Golden State Warriors,50752,,,,,,,238534,0.050752
+534,Eric Mika,Sacramento Kings,50752,,,,,,,50752,0.050752
+535,Zach Norvell,Golden State Warriors,50752,,,,,,,50752,0.050752
+536,Malik Newman,Cleveland Cavaliers,50752,,,,,,,50752,0.050752
+537,Marques Bolden,Cleveland Cavaliers,50752,,,,,,,50752,0.050752
+538,Sir'Dominic Pointer,Cleveland Cavaliers,50752,,,,,,Minimum Salary,50752,0.050752
+539,Paul Watson,Atlanta Hawks,50752,,,,,,,50752,0.050752
+540,Tyler Cook,Cleveland Cavaliers,50000,,,,,,,151504,0.05
+541,William Howard,Utah Jazz,50000,,,,,,,50000,0.05
+542,Isaiah Taylor,Toronto Raptors,50000,,,,,,,50000,0.05
+543,Tyler Lydon,Sacramento Kings,50000,,,,,,,50000,0.05
+544,Hollis Thompson,Sacramento Kings,50000,,,,,,,50000,0.05
+545,Tyler Ulis,Sacramento Kings,50000,,,,,,,50000,0.05
