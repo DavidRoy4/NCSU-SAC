@@ -6,12 +6,13 @@ Warren <- read_html("https://www.basketball-reference.com/players/w/warretj01/ga
 
 All_Players <- read_html("https://www.basketball-reference.com/leagues/NBA_2020_per_game.html") %>% html_table()
 
-Players <- data.frame(All_Players[[1]]) 
-Players <- Players %>% select(Player, TRB, AST, PTS)
-for(i in 2:4){
+Total_Players <- data.frame(All_Players[[1]]) 
+Players <- Total_Players %>% select(Player, G, TRB, AST, PTS)
+for(i in 2:5){
   Players[ ,i] <- as.numeric(Players[ ,i])
 }
-summary(Players)
+
+Salaries <- read.csv("NBA\\Salaries.csv") %>% select(Player, Salary_2019_to_20) %>% filter(Player %in% c(Players$Player))
 
 Games2021 <- Warren[[8]] %>% data.frame() %>% filter(Rk != "Rk")
 for(i in 11:29) {
@@ -67,17 +68,73 @@ N <- c(68,35,5,6)
 
 Stats_Table <- data.frame(Type, Points, Rebounds, Assists, GS, N)
 
-Stat <- c("PTS", "REB", "AST")
-BPts <- c(31, 6.33, 2)
-Percentiles <- c("100%", "90%", "73%")
-Percent_Table <- data.frame(Stat, BPts, Percentiles)
-
-Percentile <- function(name, col){
-  P <- Players %>% 
-    filter(P == name)
-  P <- P[,col]
-  print(which(Players[,col] < P))
+Player_filter <- Players %>% filter(G > 20)
+Percentile <- function(name,col){
+  P <- Player_filter %>% filter(Player == name) %>% select(col) %>% as.numeric()
+  col_num <- which(colnames(Players)==col)
+  Percen <- length(which(Players[,col_num] > P)) / length(Players[,col_num])
+  final <- c(P, 1-Percen)
+  print(final)
 }
 
-Percentile("LeBron James", 30)
+Names <- c("TJ Warren", "Paul George", "Kawhi Leonard", "Jimmy Butler", "Khris Middleton")
 
+PTS <- c(31, 
+         Percentile("Paul George", "PTS")[1],
+         Percentile("Kawhi Leonard", "PTS")[1],
+         Percentile("Jimmy Butler", "PTS")[1], 
+         Percentile("Khris Middleton", "PTS")[1])
+
+PTS_per <- c("100%", 
+             paste0(round(Percentile("Paul George", "PTS")[2],2) * 100, "%"), 
+             paste0(round(Percentile("Kawhi Leonard", "PTS")[2],2) * 100, "%"),
+             paste0(round(Percentile("Jimmy Butler", "PTS")[2], 2) * 100, "%"), 
+             paste0(round(Percentile("Khris Middleton", "PTS")[2], 2) * 100, "%"))
+
+AST <- c(2, 
+         Percentile("Paul George", "AST")[1],
+         Percentile("Kawhi Leonard", "AST")[1],
+         Percentile("Jimmy Butler", "AST")[1], 
+         Percentile("Khris Middleton", "AST")[1])
+
+AST_per <- c("72%", 
+             paste0(round(Percentile("Paul George", "AST")[2], 2) * 100, "%"), 
+             paste0(round(Percentile("Kawhi Leonard", "AST")[2], 2) * 100, "%"),
+             paste0(round(Percentile("Jimmy Butler", "AST")[2], 2) * 100, "%"), 
+             paste0(round(Percentile("Khris Middleton", "AST")[2], 2) * 100, "%"))
+
+REB <- c(6.33, 
+         Percentile("Paul George", "TRB")[1],
+         Percentile("Kawhi Leonard", "TRB")[1],
+         Percentile("Jimmy Butler", "TRB")[1], 
+         Percentile("Khris Middleton", "TRB")[1])
+
+REB_per <- c("90%", 
+             paste0(round(Percentile("Paul George", "TRB")[2],2) * 100, "%"), 
+             paste0(round(Percentile("Kawhi Leonard", "TRB")[2],2) * 100, "%"),
+             paste0(round(Percentile("Jimmy Butler", "TRB")[2],2) * 100, "%"), 
+             paste0(round(Percentile("Khris Middleton", "TRB")[2], 2) * 100, "%"))
+
+Percent_Table <- data.frame(Names, PTS, PTS_per, AST, AST_per, REB, REB_per)
+
+TJ <- c("TJ Warren", 67, 6.33, 2, 31, 10810000)
+
+Middleton <- Players %>% filter(Player == "Khris Middleton")
+
+final_data <- Players %>% filter(Player %in% c("Paul George", "Kawhi Leonard", "Jimmy Butler")) 
+Money <- Salaries %>% filter(Player %in% c("Paul George", "Kawhi Leonard", "Jimmy Butler"))
+
+Middleton <- Middleton %>% mutate(Salary_2019_to_20 = Salaries[24,2])
+final_data <- full_join(final_data, Money) %>% 
+  rbind(TJ) %>% 
+  rbind(Middleton)
+
+final_data <- final_data %>% 
+  mutate(Salary_Per = c("98.2%", "98.4%", "98.2%", "77.5%", "95.1%"), 
+         Salary_num = c(98.2, 98.4, 98.2, 77.5, 95.1), 
+         PTS_per = Percent_Table$PTS_per)
+
+ggplot(final_data, aes(x = reorder(Player, desc(PTS)), y = PTS)) + 
+  geom_segment(aes(x = 0, y = PTS, xend = Player, yend = PTS))
+  geom_point(aes(size = Salary_Per)) +
+  geom_text(aes(label = Salary_num), vjust = 1.5)
